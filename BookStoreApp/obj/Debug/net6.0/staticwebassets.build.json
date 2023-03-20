@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pHkCkg697RRAwFHQPQVp8jIsY5WwwInrVesig/ru1bo=",
+  "Hash": "8UJ39Srrp3dieY0PcqUE7TRz6ZDqjZDJyJw2RaZTVzE=",
   "Source": "BookStoreApp",
   "BasePath": "_content/BookStoreApp",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BookStoreApp.styles.css",
-      "SourceId": "BookStoreApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/BookStoreApp",
-      "RelativePath": "BookStoreApp.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BookStoreApp.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStoreApp.bundle.scp.css",
-      "SourceId": "BookStoreApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/BookStoreApp",
-      "RelativePath": "BookStoreApp.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStoreApp.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\wwwroot\\css\\bootswatchTheme.css",
       "SourceId": "BookStoreApp",

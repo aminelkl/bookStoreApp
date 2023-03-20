@@ -332,9 +332,7 @@ C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\staticwebass
 C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\scopedcss\bundle\BookStoreApp.styles.css
-C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\scopedcss\projectbundle\BookStoreApp.bundle.scp.css
 C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\BookStoreApp.csproj.CopyComplete
 C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\BookStoreApp.dll
 C:\Users\amine\source\repos\BookStore\BookStoreApp\obj\Debug\net6.0\refint\BookStoreApp.dll
