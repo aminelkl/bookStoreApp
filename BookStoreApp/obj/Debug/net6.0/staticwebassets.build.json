@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uuwUo9KYuhHbVpXwoVLwO7pBFv8OzGgo+rgIaYAcog4=",
+  "Hash": "pHkCkg697RRAwFHQPQVp8jIsY5WwwInrVesig/ru1bo=",
   "Source": "BookStoreApp",
   "BasePath": "_content/BookStoreApp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStoreApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "BookStoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\wwwroot\\",
+      "BasePath": "_content/BookStoreApp",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\wwwroot\\css\\site.css",

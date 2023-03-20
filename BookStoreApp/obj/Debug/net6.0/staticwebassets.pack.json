@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BookStoreApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
       "Id": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
