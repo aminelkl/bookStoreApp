@@ -34,6 +34,8 @@
     ".NETCoreApp,Version=v6.0": {
       "BookStoreApp/1.0.0": {
         "dependencies": {
+          "BookStore.DataAccess": "1.0.0",
+          "BookStore.Models": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "6.0.15",
           "Microsoft.EntityFrameworkCore": "8.0.0-preview.2.23128.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.2.23128.3",
@@ -3013,6 +3015,28 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
+      "BookStore.DataAccess/1.0.0": {
+        "dependencies": {
+          "BookStore.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.0-preview.2.23128.3",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.0-preview.2.23128.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.2.23128.3"
+        },
+        "runtime": {
+          "BookStore.DataAccess.dll": {}
+        },
+        "compile": {
+          "BookStore.DataAccess.dll": {}
+        }
+      },
+      "BookStore.Models/1.0.0": {
+        "runtime": {
+          "BookStore.Models.dll": {}
+        },
+        "compile": {
+          "BookStore.Models.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Antiforgery/6.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -5963,6 +5987,16 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "BookStore.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookStore.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/6.0.0.0": {
       "type": "referenceassembly",

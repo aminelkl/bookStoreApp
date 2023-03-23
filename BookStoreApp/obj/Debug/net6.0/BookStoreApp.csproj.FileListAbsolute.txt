@@ -565,3 +565,7 @@ C:\Users\amine\source\repos\BookStore\BookStoreApp\bin\Debug\net6.0\ru\Microsoft
 C:\Users\amine\source\repos\BookStore\BookStoreApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\amine\source\repos\BookStore\BookStoreApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\amine\source\repos\BookStore\BookStoreApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\amine\source\repos\BookStore\BookStoreApp\bin\Debug\net6.0\BookStore.DataAccess.dll
+C:\Users\amine\source\repos\BookStore\BookStoreApp\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\amine\source\repos\BookStore\BookStoreApp\bin\Debug\net6.0\BookStore.DataAccess.pdb
+C:\Users\amine\source\repos\BookStore\BookStoreApp\bin\Debug\net6.0\BookStore.Models.pdb
