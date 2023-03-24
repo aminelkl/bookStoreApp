@@ -3,8 +3,9 @@ using BookStore.DataAccess;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BookStoreApp.Controllers
-{
+namespace BookStoreApp.Areas.Customer.Controllers;
+[Area("Customer")]
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -30,4 +31,3 @@ namespace BookStoreApp.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
-}

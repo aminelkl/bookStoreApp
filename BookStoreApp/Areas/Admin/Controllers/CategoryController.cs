@@ -4,8 +4,8 @@ using BookStore.DataAccess.Repository.Irepository;
 using BookStore.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BookStoreApp.Controllers
-{
+namespace BookStoreApp.Controllers;
+[Area("Admin")]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -107,10 +107,10 @@ namespace BookStoreApp.Controllers
                 return NotFound();
             }
 
-                _unitOfWork.Category.Remove(obj);
-                _unitOfWork.Save();
+            _unitOfWork.Category.Remove(obj);
+            _unitOfWork.Save();
                 TempData["Success"] = "Category deleted succesfully";
                 return RedirectToAction("Index");
          } 
     }
-}
+
