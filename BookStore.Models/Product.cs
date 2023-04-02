@@ -48,7 +48,6 @@ namespace BookStore.Models
 
         [Required]
         public int CoverTypeId { get; set; }
-        [ForeignKey("CoverTypeId")]
-        public Category CoverType { get; set; }
+        public CoverType CoverType { get; set; }
     }
 }

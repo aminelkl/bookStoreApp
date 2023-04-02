@@ -5,7 +5,7 @@
 namespace BookStoreApp.Migrations
 {
     /// <inheritdoc />
-    public partial class addProductToDb : Migration
+    public partial class AddedProductToDb : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -38,9 +38,9 @@ namespace BookStoreApp.Migrations
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Products_Categories_CoverTypeId",
+                        name: "FK_Products_CoverTypes_CoverTypeId",
                         column: x => x.CoverTypeId,
-                        principalTable: "Categories",
+                        principalTable: "CoverTypes",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
