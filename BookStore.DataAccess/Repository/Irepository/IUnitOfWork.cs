@@ -10,6 +10,7 @@ namespace BookStore.DataAccess.Repository.Irepository
     {
         ICategoryRepository Category { get; }
         ICoverTypeRepository CoverType { get; }
+        IProductRepository Product { get; }
         void Save();
 
     }

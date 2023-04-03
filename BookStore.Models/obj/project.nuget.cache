@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VZ/mB68VQH5Xn4Gn6JXcAMeSxTMAhmG1JFz669FtTjjzkTB3tu63e+AvhS+S9nfiqg08N0nsWKrV9cZA6nQLqw==",
+  "dgSpecHash": "83a2Aks7y5BMd53/Z3LaReU7D3N20W4Iddncy1pahgL2emUnk2wXsy0CzyVuH9kbZWoLTOhHX7/TjWfv5D4r+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Models\\BookStore.Models.csproj",
+  "projectFilePath": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Models\\BookStore.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

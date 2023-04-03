@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Utility\\BookStore.Utility.csproj": {}
+    "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Utility\\BookStore.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Utility\\BookStore.Utility.csproj": {
+    "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Utility\\BookStore.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Utility\\BookStore.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Utility\\BookStore.Utility.csproj",
         "projectName": "BookStore.Utility",
-        "projectPath": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Utility\\BookStore.Utility.csproj",
+        "projectPath": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Utility\\BookStore.Utility.csproj",
         "packagesPath": "C:\\Users\\amine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Utility\\obj\\",
+        "outputPath": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

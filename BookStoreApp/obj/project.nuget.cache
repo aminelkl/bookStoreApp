@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fuv9Ym0+6Cphr96rvCJqO775KF2oL6wlfXMgQW3KVLIu0tsKY/VlPmf07VCJufdnnUinnCyfPwTocClGO0WDZQ==",
+  "dgSpecHash": "RV7z3Gt6cGHY1g4TKohJLUi0BPnZJvgXQx25rrMsGS/jEUW9QBMCnzgk0DwpmounpavcWgc2GAjXoO83clKp+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStoreApp\\BookStoreApp.csproj",
+  "projectFilePath": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\BookStoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amine\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\amine\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

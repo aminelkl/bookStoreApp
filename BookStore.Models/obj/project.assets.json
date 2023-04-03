@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Models\\BookStore.Models.csproj",
+      "projectUniqueName": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Models\\BookStore.Models.csproj",
       "projectName": "BookStore.Models",
-      "projectPath": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Models\\BookStore.Models.csproj",
+      "projectPath": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Models\\BookStore.Models.csproj",
       "packagesPath": "C:\\Users\\amine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amine\\source\\repos\\BookStore\\BookStore.Models\\obj\\",
+      "outputPath": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStore.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
