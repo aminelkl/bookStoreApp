@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Rl53aozdX78AuYT+GgnPtERHUP4I0s6mbyl/w4UCSU=",
+  "Hash": "KM9b+1bJSWm1T+v78T5m8nFegEalp8COZ6EjsHCXGtE=",
   "Source": "BookStoreApp",
   "BasePath": "_content/BookStoreApp",
   "Mode": "Default",
@@ -66,40 +66,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\products\\d98f9157-ac06-4125-90e2-9ff1b53d3b67.webp",
-      "SourceId": "BookStoreApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\",
-      "BasePath": "_content/BookStoreApp",
-      "RelativePath": "images/products/d98f9157-ac06-4125-90e2-9ff1b53d3b67.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\d98f9157-ac06-4125-90e2-9ff1b53d3b67.webp"
-    },
-    {
-      "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\products\\da96cc8f-6240-4f49-8d81-e344ea0168af.png",
-      "SourceId": "BookStoreApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\",
-      "BasePath": "_content/BookStoreApp",
-      "RelativePath": "images/products/da96cc8f-6240-4f49-8d81-e344ea0168af.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\da96cc8f-6240-4f49-8d81-e344ea0168af.png"
     },
     {
       "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\js\\product.js",

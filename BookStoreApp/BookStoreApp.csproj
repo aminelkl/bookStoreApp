@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\images\products\0a2d037a-5218-4a31-86d8-29d1a4391c29.jpg" />
+    <Content Remove="wwwroot\images\products\17eb3ef0-cb31-40d7-8155-7e9449c4b317.jpg" />
+    <Content Remove="wwwroot\images\products\28ea57e9-9e64-47f2-b335-d3379a586b6a.jpg" />
+    <Content Remove="wwwroot\images\products\5b05a5f6-64f4-411f-9ea2-632ca9bd394f.webp" />
+    <Content Remove="wwwroot\images\products\d7a006f8-6559-495a-a91e-05754aff64bc.jpg" />
+    <Content Remove="wwwroot\images\products\d98f9157-ac06-4125-90e2-9ff1b53d3b67.webp" />
+    <Content Remove="wwwroot\images\products\da96cc8f-6240-4f49-8d81-e344ea0168af.png" />
+    <Content Remove="wwwroot\images\products\eadeeb3b-6430-42fa-a622-58860bb8bf1d.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.15" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0-preview.2.23128.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0-preview.2.23128.3" />

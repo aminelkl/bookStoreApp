@@ -26,18 +26,22 @@ namespace BookStore.Models
 
         [Required]
         [Range(1, 10000)]
+        [Display(Name = "List price")]
         public double ListPrice { get; set; }
 
         [Required]
         [Range(1, 10000)]
+        [Display(Name = "Price for 1-50")]
         public double Price { get; set; }
 
         [Required]
         [Range(1, 10000)]
+        [Display(Name = "Price for 51-100")]
         public double Price50 { get; set; }
 
         [Required]
         [Range(1, 10000)]
+        [Display(Name = "Price for 100+")]
         public double Price100 { get; set; }
 
         [ValidateNever]
@@ -45,11 +49,14 @@ namespace BookStore.Models
 
         [Required]
         public int CategoryId { get; set; }
+        
         [ForeignKey("CategoryId")]
         [ValidateNever]
+        [Display(Name = "Category")]
         public Category Category { get; set; }
 
         [Required]
+        [Display(Name = "Cover type")]
         public int CoverTypeId { get; set; }
         
         [ValidateNever]
