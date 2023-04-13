@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\products\\00555e63-3cb4-4e34-b124-60a5754b9fe6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\00555e63-3cb4-4e34-b124-60a5754b9fe6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\products\\56547b06-aa8c-45d5-8b95-48045317cae8.png",
+      "PackagePath": "staticwebassets\\images\\products\\56547b06-aa8c-45d5-8b95-48045317cae8.png"
+    },
+    {
+      "Id": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\products\\f18e61ca-8873-48e0-b4ea-1a145ae5b0e1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f18e61ca-8873-48e0-b4ea-1a145ae5b0e1.jpg"
+    },
+    {
       "Id": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
