@@ -593,8 +593,6 @@ C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -679,8 +677,6 @@ C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
@@ -859,6 +855,11 @@ C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Azure.Identity
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Humanizer.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\MessagePack.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -893,6 +894,9 @@ C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Exte
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
@@ -918,6 +922,7 @@ C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Visu
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\NuGet.Common.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\NuGet.Configuration.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
@@ -1140,5 +1145,3 @@ C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\obj\Debug\net6.0\refint\BookSto
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\obj\Debug\net6.0\BookStoreApp.pdb
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\obj\Debug\net6.0\BookStoreApp.genruntimeconfig.cache
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\obj\Debug\net6.0\ref\BookStoreApp.dll
-C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
