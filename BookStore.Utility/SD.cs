@@ -8,5 +8,7 @@ namespace BookStore.Utility
 {
     public static class SD
     {
+        public const string Role_User_Indi = "individual";
+        public const string Role_Admin = "Admin";
     }
 }
