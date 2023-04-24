@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XRaQ7HDLNVmA+h4dokPEbtN9wEDDF+uP8ULk4VdpGac=",
+  "Hash": "TwLs+tzO0eUoVHkt7cOlFJ8gqxBeLgqdcTZtuLH3FRM=",
   "Source": "BookStoreApp",
   "BasePath": "_content/BookStoreApp",
   "Mode": "Default",
@@ -1324,6 +1324,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\f8035c35-82fc-4801-b3d0-2806e0237fc9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\js\\company.js",
+      "SourceId": "BookStoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\",
+      "BasePath": "_content/BookStoreApp",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\js\\product.js",
