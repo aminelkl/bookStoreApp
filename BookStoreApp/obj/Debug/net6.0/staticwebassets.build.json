@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wBDe3qHBggOFySo2BX3eql+5d5FKJSDqsFptscDmin4=",
+  "Hash": "XRaQ7HDLNVmA+h4dokPEbtN9wEDDF+uP8ULk4VdpGac=",
   "Source": "BookStoreApp",
   "BasePath": "_content/BookStoreApp",
   "Mode": "Default",
@@ -1307,6 +1307,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\f2360fb3-45e1-4beb-8707-93ec35ec1f8c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\products\\f8035c35-82fc-4801-b3d0-2806e0237fc9.jpg",
+      "SourceId": "BookStoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\",
+      "BasePath": "_content/BookStoreApp",
+      "RelativePath": "images/products/f8035c35-82fc-4801-b3d0-2806e0237fc9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\f8035c35-82fc-4801-b3d0-2806e0237fc9.jpg"
     },
     {
       "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\js\\product.js",

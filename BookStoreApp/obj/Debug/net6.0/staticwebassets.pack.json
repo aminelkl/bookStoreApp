@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\images\\products\\f2360fb3-45e1-4beb-8707-93ec35ec1f8c.jpg"
     },
     {
+      "Id": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\products\\f8035c35-82fc-4801-b3d0-2806e0237fc9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f8035c35-82fc-4801-b3d0-2806e0237fc9.jpg"
+    },
+    {
       "Id": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
