@@ -51,6 +51,13 @@ Update db string connection and APIKEY in appsettings.json
     "DefaultConnection": "YOUR DATABASE STRING CONNECTION"
   }
 ```
+1. Copy the content of bootstrap.min.css from a template [bootswatchTheme](https://bootswatch.com/)  
+2. Paste here : bookStoreApp\BookStoreApp\wwwroot\css/bootswatchTheme.css
+
+```bash
+Customize using bootswatch theme
+```
+
 
 Create database package manager
 
