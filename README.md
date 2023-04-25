@@ -25,6 +25,40 @@ This is a fullstack web-based ecommerce application for a bookstore. The applica
 - Admin panel to manage books, category type, and cover type
 - Responsive design for mobile devices
 
+## Run Locally
+Install .net 6.0 via cli or manually
+
+```bash
+dotnet-install.sh --runtime dotnet --version 6.0
+```
+
+
+Clone the project
+
+```bash
+  git clone https://github.com/aminelkl/bookStoreApp.git
+```
+
+Update db string connection and APIKEY in appsettings.json
+
+```bash
+  "Stripe": {
+    "SecretKey": "YOUR SECRET API KEY",
+    "PublishableKey": "YOU PUBLISHABLE API KEY"
+  } 
+
+  "ConnectionStrings": {
+    "DefaultConnection": "YOUR DATABASE STRING CONNECTION"
+  }
+```
+
+Create database package manager
+
+```bash
+  add-migration [migrationName]
+  update-database
+```
+
 
 ![REGISTER](https://user-images.githubusercontent.com/96929412/234168430-23a37426-f790-4a25-9c95-440d3558138a.PNG)
 ![LOGIN](https://user-images.githubusercontent.com/96929412/234168432-1bb852a8-b863-4c5a-9b9c-29d31141cfa6.PNG)
