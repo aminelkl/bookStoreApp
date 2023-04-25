@@ -2,7 +2,7 @@
 # Ecommerce Application 📚
 
 
-This is a fullstack web-based ecommerce application for a bookstore. The application allows customers to browse, search and purchase books. The project was built using ASP.NET 6.0, Microsoft Identity for user management, and Entity Framework for the database. The frontend was designed using the Bootswatch theme and bootstrap.
+This is a fullstack web-based ecommerce application for a bookstore. The application allows customers to browse, search and purchase books. The project was built using ASP.NET 6.0, Microsoft Identity for user management, and Entity Framework/SQLServer for the database. The frontend was designed using the Bootswatch theme and bootstrap.
 
 ## Libraries and Tools Used
 - [DataTables](https://datatables.net/) : displaying CRUD operations in a table
@@ -26,6 +26,13 @@ This is a fullstack web-based ecommerce application for a bookstore. The applica
 - Responsive design for mobile devices
 
 
+![REGISTER](https://user-images.githubusercontent.com/96929412/234168430-23a37426-f790-4a25-9c95-440d3558138a.PNG)
+![LOGIN](https://user-images.githubusercontent.com/96929412/234168432-1bb852a8-b863-4c5a-9b9c-29d31141cfa6.PNG)
+![HOME](https://user-images.githubusercontent.com/96929412/234168433-82dd8bcf-bce7-46dd-a1cd-1622b161e00b.PNG)
+![DETAIL](https://user-images.githubusercontent.com/96929412/234168434-1a7a4c75-3d0f-4f30-b2ff-5d67a505b369.PNG)
+![CART](https://user-images.githubusercontent.com/96929412/234168436-48bce789-c45c-49b2-8bf0-29195ce8bd8a.PNG)
+![PAYMENT](https://user-images.githubusercontent.com/96929412/234168438-96866497-ce52-44cb-a304-1b841844f5cd.PNG)
+![UPDATE](https://user-images.githubusercontent.com/96929412/234168439-28a662ae-b322-495e-a466-5a1144face4c.PNG)
 
 
 
