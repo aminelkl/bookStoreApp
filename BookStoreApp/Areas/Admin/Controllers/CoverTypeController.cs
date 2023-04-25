@@ -2,11 +2,15 @@
 using BookStore.DataAccess.Repository;
 using BookStore.DataAccess.Repository.Irepository;
 using BookStore.Models;
+using BookStore.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookStoreApp.Controllers;
 [Area("Admin")]
-    public class CoverTypeController : Controller
+[Authorize(Roles = SD.Role_Admin)]
+
+public class CoverTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
 

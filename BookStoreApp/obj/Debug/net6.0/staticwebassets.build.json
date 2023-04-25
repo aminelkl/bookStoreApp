@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TwLs+tzO0eUoVHkt7cOlFJ8gqxBeLgqdcTZtuLH3FRM=",
+  "Hash": "R0TrO91W33bqpFvElHKEhN7iRAimbuiyPi6M5IChaj4=",
   "Source": "BookStoreApp",
   "BasePath": "_content/BookStoreApp",
   "Mode": "Default",
@@ -1086,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\lawn_leaf.jpg",
+      "SourceId": "BookStoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\",
+      "BasePath": "_content/BookStoreApp",
+      "RelativePath": "images/lawn_leaf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
       "Identity": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\wwwroot\\images\\products\\00555e63-3cb4-4e34-b124-60a5754b9fe6.jpg",

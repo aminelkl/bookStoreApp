@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ivVeOlEuQIXhhBbL7jroO0SBNMQxY+SGVWo4wSap+a6QALUk9kjSdMLh54Brnrc/ZWyW+x2ROLUf5hozStPm6w==",
+  "dgSpecHash": "ziRAOTYaUEm7t6zc4Z7XxBsB20MfKTGIgherLbkLx/OCFhLhybk8aCSLia2gWpMTdII5hWUex1BHvEhCIugcJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\amine\\Desktop\\bookStoreApp\\BookStoreApp\\BookStoreApp.csproj",
   "expectedPackageFiles": [
@@ -144,6 +144,7 @@
     "C:\\Users\\amine\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\amine\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\amine\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\amine\\.nuget\\packages\\stripe.net\\41.13.0\\stripe.net.41.13.0.nupkg.sha512",
     "C:\\Users\\amine\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\amine\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\amine\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",

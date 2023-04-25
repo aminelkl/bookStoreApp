@@ -1147,3 +1147,4 @@ C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\obj\Debug\net6.0\BookStoreApp.g
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\obj\Debug\net6.0\ref\BookStoreApp.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\BookStore.Utility.dll
 C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\BookStore.Utility.pdb
+C:\Users\amine\Desktop\bookStoreApp\BookStoreApp\bin\Debug\net6.0\Stripe.net.dll
