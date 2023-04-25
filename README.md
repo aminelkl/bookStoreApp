@@ -1,5 +1,5 @@
 
-# Ecommerce Application 📚
+# Ecommerce Application 📖
 
 
 This is a fullstack web-based ecommerce application for a bookstore. The application allows customers to browse, search and purchase books. The project was built using ASP.NET 6.0, Microsoft Identity for user management, and Entity Framework/SQLServer for the database. The frontend was designed using the Bootswatch theme and bootstrap.
